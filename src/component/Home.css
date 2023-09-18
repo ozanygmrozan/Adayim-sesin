@@ -1,0 +1,22 @@
+.map-container {
+  display: flex;
+  width: 20%;
+}
+.harita {
+  width: 120%;
+}
+.turkey-map {
+  width: 80%;
+  display: flex;
+}
+
+
+@media (max-width: 768px) {
+  .turkey-map {
+    flex-direction: column;
+  }
+
+  .harita {
+    margin-right: 0; 
+  }
+}

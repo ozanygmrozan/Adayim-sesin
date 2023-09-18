@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "photo": "link_to_photo_1.jpg",
+    "firstName": "John",
+    "lastName": "Doe",
+    "description": "Açıklama 1"
+  },
+  {
+    "id": 2,
+    "photo": "link_to_photo_2.jpg",
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "description": "Açıklama 2"
+  },
+  {
+    "id": 3,
+    "photo": "link_to_photo_3.jpg",
+    "firstName": "Michael",
+    "lastName": "Johnson",
+    "description": "Açıklama 3"
+  },
+  {
+    "id": 4,
+    "photo": "link_to_photo_4.jpg",
+    "firstName": "Emily",
+    "lastName": "Brown",
+    "description": "Açıklama 4"
+  },
+  {
+    "id": 5,
+    "photo": "link_to_photo_5.jpg",
+    "firstName": "William",
+    "lastName": "Lee",
+    "description": "Açıklama 5"
+  },
+  {
+    "id": 6,
+    "photo": "link_to_photo_6.jpg",
+    "firstName": "Olivia",
+    "lastName": "Davis",
+    "description": "Açıklama 6"
+  },
+  {
+    "id": 7,
+    "photo": "link_to_photo_7.jpg",
+    "firstName": "James",
+    "lastName": "Wilson",
+    "description": "Açıklama 7"
+  },
+  {
+    "id": 8,
+    "photo": "link_to_photo_8.jpg",
+    "firstName": "Ava",
+    "lastName": "Martin",
+    "description": "Açıklama 8"
+  },
+  {
+    "id": 9,
+    "photo": "link_to_photo_9.jpg",
+    "firstName": "Robert",
+    "lastName": "Harris",
+    "description": "Açıklama 9"
+  },
+  {
+    "id": 10,
+    "photo": "link_to_photo_10.jpg",
+    "firstName": "Mia",
+    "lastName": "Clark",
+    "description": "Açıklama 10"
+  }
+]
